@@ -9,16 +9,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/customviews" />
+            <option value="$PROJECT_DIR$/barchatview" />
+            <option value="$PROJECT_DIR$/colorsilder" />
+            <option value="$PROJECT_DIR$/pricerangecircleview" />
+            <option value="$PROJECT_DIR$/watermark" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/customviews" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

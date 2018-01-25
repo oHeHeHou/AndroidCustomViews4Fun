@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustomViewForFun.iml" filepath="$PROJECT_DIR$/CustomViewForFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCustomViews4Fun.iml" filepath="$PROJECT_DIR$/AndroidCustomViews4Fun.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/customviews/customviews.iml" filepath="$PROJECT_DIR$/customviews/customviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barchatview/barchatview.iml" filepath="$PROJECT_DIR$/barchatview/barchatview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorsilder/colorsilder.iml" filepath="$PROJECT_DIR$/colorsilder/colorsilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pricerangecircleview/pricerangecircleview.iml" filepath="$PROJECT_DIR$/pricerangecircleview/pricerangecircleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/watermark/watermark.iml" filepath="$PROJECT_DIR$/watermark/watermark.iml" />
     </modules>
   </component>
 </project>

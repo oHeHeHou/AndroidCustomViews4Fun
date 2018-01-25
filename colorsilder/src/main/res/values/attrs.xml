@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name = "progress_color" format = "color" />
+    <attr name = "bottom_text_color" format = "color" />
+    <attr name = "bottom_text_size" format="dimension" />
+
+    <declare-styleable name="ColorSlider">
+        <attr name="progress_color"/>
+        <attr name="base_color" format="color" />
+        <attr name="line_height" format="dimension" />
+        <attr name="slide_bar_radius" format="dimension" />
+        <attr name="bottom_text_size"/>
+        <attr name="bottom_text_color"/>
+    </declare-styleable>
+</resources>

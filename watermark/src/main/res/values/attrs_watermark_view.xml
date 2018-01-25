@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="WatermarkView">
+        <attr name="textContent" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>

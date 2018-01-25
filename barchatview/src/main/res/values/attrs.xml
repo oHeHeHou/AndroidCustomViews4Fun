@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BarChart">
+        <attr name="bar_primary_color" format="color"/>
+        <attr name="bar_secondary_color" format="color" />
+        <attr name="bar_width" format="dimension" />
+        <attr name="top_value_size" format="dimension"/>
+        <attr name="top_value_color" format="color"/>
+        <attr name="bottom_label_size"  format="dimension"/>
+        <attr name="bottom_label_color" format="color"/>
+        <attr name="show_y_label" format="boolean"/>
+        <attr name="animate" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,1 +1,1 @@
-include ':app', ':customviews'
+include ':app', ':barchatview', ':pricerangecircleview', ':colorsilder', ':watermark'

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name = "progress_color" format = "color" />
+    <attr name = "bottom_text_color" format = "color" />
+    <attr name = "bottom_text_size" format="dimension" />
+    <declare-styleable name="PriceRangeCircleView">
+        <attr name="circle_radius" format="dimension" />
+        <attr name="percent_text_size" format="dimension" />
+        <attr name="bottom_text_size"  />
+        <attr name="progress_color"/>
+        <attr name="default_color" format="color" />
+        <attr name="percent_text_color" format="color" />
+        <attr name="bottom_text_color"/>
+    </declare-styleable>
+</resources>
